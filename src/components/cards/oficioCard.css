@@ -1,0 +1,27 @@
+.card-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  border-radius: 15px;
+  width: 249px;
+  height: 215px;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.card-linkTitulo {
+  margin-top: 10%;
+  margin-bottom: 20%;
+}
+
+.card-linkBotao {
+  width: 127px;
+  height: 59px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #2304d1;
+  color: #ffffff;
+  border: none;
+  font-size: 16px;
+}
